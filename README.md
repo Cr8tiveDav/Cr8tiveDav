@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm David 👨🏽‍💻
 
-<!--
-**Cr8tiveDav/Cr8tiveDav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer passionate about building responsive and accessible web apps using JavaScript, React, and modern tools.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 💻 Languages: JavaScript, HTML, CSS
+- ⚙️ Tools: React, Git, GitHub, Vite, Tailwind CSS
+- 🛠️ Currently Learning: TypeScript, Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cr8tiveDav&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr8tiveDav&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cr8tiveDav&theme=radical)
+
+## 📫 Connect with me
+- Twitter: [(https://x.com/cr8tivedav)]
+
