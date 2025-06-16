@@ -1,6 +1,6 @@
 # Hi there 👋, I'm David 👨🏽‍💻
 
-I'm a frontend developer passionate about building responsive and accessible web apps using JavaScript, React, and modern tools.
+A frontend developer passionate about building responsive and accessible web apps using JavaScript, React, and modern tools.
 
 ## 🔧 Tech Stack
 - 💻 Languages: JavaScript, HTML, CSS
