@@ -1,11 +1,11 @@
 # Hi there 👋, I'm David 👨🏽‍💻
 
-A frontend developer passionate about building responsive and accessible web apps using JavaScript, React, and modern tools.
+A full-stack developer, passionate about building responsive, accessible, and innovative web apps using JavaScript, React, Go, and modern tools.
 
 ## 🔧 Tech Stack
-- 💻 Languages: JavaScript, HTML, CSS
-- ⚙️ Tools: React, Git, GitHub, Vite, Tailwind CSS
-- 🛠️ Currently Learning: TypeScript, Next.js
+- 💻 Languages: HTML, CSS, JavaScript, TypeScript, and Go
+- ⚙️ Tools: React, NextJS, Git, GitHub, Vite, Tailwind CSS
+- 🛠️ Currently Learning: Go and SQL
 
 ## 📊 GitHub Overview
 
