@@ -1,22 +1,16 @@
 <h1 align="center">Hi there 👋, I'm David</h1>
 
 <p align="center">
-  Full-stack developer passionate about building responsive, accessible, and innovative web apps using JavaScript, React, Go, and modern tools.
+  I'm a software developer focused on building responsive web applications, cross-platform mobile apps, and reliable backend services. With a strong foundation in <strong>TypeScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, and <strong>React Native</strong> on the frontend, paired with <strong>Go</strong>, <strong>Python</strong>, and <strong>PostgreSQL</strong> on the backend. I care deeply about clean architecture, sharp UI/UX, and turning complex ideas into fast, maintainable products.
 </p>
-
-<p align="center">
-  <a href="https://x.com/cr8tivedav"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-  <a href="https://github.com/Cr8tiveDav"><img src="https://img.shields.io/github/followers/Cr8tiveDav?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on full-stack projects with **Next.js**, **React**, and **Go**
-- 🌱 Currently learning **Go**, **SQL**, and **React Native** for mobile development
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, and Tailwind CSS**
-- ⚡ I care about clean code, accessibility, and shipping features that work
+- 🔭 Currently building full-stack web and mobile apps with **Next.js**, **TypeScript**, **React Native**, and **Go**
+- 🌱 Deepening my work in **Python**, **PostgreSQL**, and systems/desktop tooling
+- 💬 Ask me about **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, or **Go**
+- ⚡ Focused on clean architecture, sharp UI/UX, and shipping reliable software
+- 🌐 Portfolio: [davidezeike.vercel.app](https://davidezeike.vercel.app)
 
 ---
 
@@ -27,6 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
