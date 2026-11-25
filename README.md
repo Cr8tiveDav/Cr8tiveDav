@@ -55,6 +55,7 @@
 
 - **X/Twitter:** [@cr8tivedav](https://x.com/cr8tivedav)
 - **GitHub:** [@Cr8tiveDav](https://github.com/Cr8tiveDav)
+- **LinkedIn:** [@david-ezeike](www.linkedin.com/in/david-ezeike)
 
 ---
 
